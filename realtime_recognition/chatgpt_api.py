@@ -4,7 +4,7 @@ import openai
 
 
 def chatgpt(user_emotion):
-    openai.api_key = "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"
+    openai.api_key = ""
 
 
     client = OpenAI(
